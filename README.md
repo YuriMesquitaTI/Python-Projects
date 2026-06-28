@@ -14,8 +14,8 @@ Bem-vindo ao meu repositório de estudos! Aqui armazeno códigos, desafios e pro
 ### 1. Simulador de Cassino Eletrônico
 Um jogo de apostas baseado em adivinhação feito inteiramente em Python. O projeto simula o ecossistema básico de um cassino virtual com interações diretas com o usuário.
 
-* **Fundamentos Aplicados:** Laços de repetição (`while True`), estruturas condicionais complexas (`if/elif/else`), controle de fluxo (`continue` / `break`) e geração de números pseudoaleatórios (`random`).
-* **🧠 Desafios Superados (O Pulo do Gato):**
+* **Fundamentos Aplicados:** Laços de repetição (`while True`), estruturas condicionais complexas (`if/elif/else`), controle de fluxo (`continue` / `break`), geração de números pseudoaleatórios (`random`) e **Modularização (`def` / funções)**.
+* **🧠 Desafios Superados:**
     * **Blindagem Lógica:** Implementei um sistema rigoroso de validação de dados para barrar trapaças (ex: inputs de valores negativos ou apostas maiores do que o saldo atual do jogador).
     * **Gestão de Estado:** Controle em tempo real do saldo que encerra a sessão automaticamente em cenários de falência (`deposito <= 0`).
     * **Tratamento de Erros:** Evitei que entradas inválidas quebrassem o fluxo e fechassem o terminal antes da hora.
